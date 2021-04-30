@@ -184,10 +184,10 @@ footer p {
 
     .logo {
         position: absolute;
-        left: 37%;
-        width: 100px;
-        margin-top: -30px;
-        transform: rotate(270deg) scale(0.7);
+        left: 35%;
+        width: 120px;
+        margin-top: -51px;
+        /* transform: rotate(270deg) scale(0.7); */
     }
 
     li {
